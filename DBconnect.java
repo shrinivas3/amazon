@@ -1,3 +1,4 @@
+checking git clean -f command
 using git pull command
 again updated in main barcnh
 Hi git command demo is started
